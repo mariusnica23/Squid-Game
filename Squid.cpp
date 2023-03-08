@@ -1,4 +1,3 @@
-//Partea de final imi da cateva erori, nu inteleg unde si de ce, insa 90% este functional si stabil(voi incerca sa il fac rulabil pana luni)
 //Am facut 2 headere in care am clasele pentru partea de utilizatori si in al doilea header am clasele pentru jocuri
 //Am incercat sa formez random din 2 fisiere text(unul cu peste 100 de nume, iar altul peste 100 de orase)concurentii si supraveghetorii
 //pentru a fi cat mai diferit totul la fiecare rulare si cat mai dinamic
